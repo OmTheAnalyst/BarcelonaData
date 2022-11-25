@@ -1,2 +1,2 @@
 # DataSet
-All these Datasets are taken from Kaggle for analysis. 
+All the Datasets are taken from Kaggle for analysis. 
